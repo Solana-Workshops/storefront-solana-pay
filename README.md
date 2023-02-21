@@ -3,7 +3,7 @@
 ## 🎬 Recorded Sessions
 | Link | Instructor | Event |
 | ---- | ---------- | ----- |
-| [<img src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/.docs/youtube-icon.png" alt="youtube" width="20" align="center"/> Recording](https://github.com/solana-developers) | Joe Caulfield | N/A |
+| [<img src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/.docs/youtube-icon.png" alt="youtube" width="20" align="center"/> Recording](https://youtu.be/jG-uJqDMpCY) | Joe Caulfield | N/A |
 
 # A straightforward guide to Solana Pay Transaction Requests 📲
 
